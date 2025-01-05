@@ -253,6 +253,7 @@ section {
 .title {
   font-size: 3rem;
   text-align: center;
+  color: rgb(45, 43, 43);
 }
 
 #socials-container {

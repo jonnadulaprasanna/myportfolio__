@@ -96,6 +96,7 @@
     }
     .title {
       font-size: 2rem;
+      color: rgb(45, 43, 43);
     }
     .text-container {
       text-align: justify;
